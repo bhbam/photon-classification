@@ -113,6 +113,7 @@ dependencies:
   - pandocfilters=1.4.2=py_1
   - pango=1.40.14=h0da9b22_1005
   - parso=0.5.0=py_0
+  - patsy=0.5.1=py_0
   - pcre=8.41=h0a44026_1003
   - pexpect=4.7.0=py37_0
   - pickleshare=0.7.5=py37_1000
@@ -139,10 +140,12 @@ dependencies:
   - root_pandas=0.6.1=py_0
   - scikit-learn=0.21.2=py37hd4ffd6c_1
   - scipy=1.3.0=py37hab3da7d_0
+  - seaborn=0.9.0=py_1
   - send2trash=1.5.0=py_0
   - setuptools=41.0.1=py37_0
   - six=1.12.0=py37_1000
   - sqlite=3.28.0=hb7d70f7_1
+  - statsmodels=0.10.0=py37heacc8b8_0
   - tbb=2019.7=h770b8ee_0
   - tbb-devel=2019.7=h770b8ee_0
   - tensorboard=1.13.1=py37_0
